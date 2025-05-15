@@ -7,14 +7,15 @@ Welcome to **Day 7** of my **100 Days of Learning** challenge! In this journey, 
 Today, I worked on:
 
 - [ ] ✅ Notebook: `Day 7.ipynb`
-- 📌 Concepts covered:
-  - [Briefly mention key topics or sections you covered in the notebook — e.g., NumPy basics, data visualization, model training, etc.]
-  - [You can update this after reviewing the actual content.]
 
 ## 🧠 Key Learnings
 
-- [Write 2–3 bullet points summarizing what you learned or found interesting today.]
-- [You can highlight any breakthrough moment or something that challenged you.]
+Summary of What I've Done Today:
+✔️ Practiced Object-Oriented Programming (class Car)
+✔️ Created a Pandas DataFrame from objects
+✔️ Saved and loaded data using .to_csv() and read_csv()
+✔️ Practiced groupby(), isnull(), and merge() operations
+✔️ Used real-world-like car data, which is great practice
 
 ## 📂 Repository Contents
 
@@ -23,7 +24,7 @@ Today, I worked on:
 
 ## 🌐 Connect With Me
 
-Follow my journey on [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME) where I post daily reflections and learnings!
+Follow my journey on [LinkedIn](www.linkedin.com/in/ritzzai) where I post daily reflections and learnings!
 
 ---
 
